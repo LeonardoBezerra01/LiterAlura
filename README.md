@@ -1,8 +1,8 @@
-<h1 align="center">Conversor de Moedas em Java</h1>
+<h1 align="center">Catálogo de Livros (LiterAlura) em Java</h1>
 <h2 align="center">Challenge da Formação ONE Oracle/Alura</h2>
 
 <p align="center">
-  <img src="Badge-Conversor.png" alt="Badge do Challenge">
+  <img src="" alt="Badge do Challenge">
 </p>
 
 ## Índice
